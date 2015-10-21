@@ -102,7 +102,7 @@
                          <asp:MenuItem Text="About Us" NavigateUrl="~/About.aspx"></asp:MenuItem>
                          <asp:MenuItem Text="Contact Us" NavigateUrl="~/Contact.aspx"></asp:MenuItem>
                     </Items>
-                </asp:Menu>)
+                </asp:Menu>
                 </div>
             </div>
         </div>
