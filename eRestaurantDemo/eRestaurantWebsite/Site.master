@@ -99,6 +99,11 @@
                             <asp:MenuItem Text="Waiter 1517 CRUD" NavigateUrl="~/CommandPages/WaiterAdmin"></asp:MenuItem>
                          </asp:MenuItem>
                         
+                          <asp:MenuItem Text="Reports" Value="Reports">
+                            <asp:MenuItem Text="Category Menu Items" NavigateUrl="~/Reports/CategoryMenuItemsReport"></asp:MenuItem>
+                           
+                         </asp:MenuItem>
+
                          <asp:MenuItem Text="About Us" NavigateUrl="~/About.aspx"></asp:MenuItem>
                          <asp:MenuItem Text="Contact Us" NavigateUrl="~/Contact.aspx"></asp:MenuItem>
                     </Items>
