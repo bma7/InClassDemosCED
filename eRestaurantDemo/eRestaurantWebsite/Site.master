@@ -101,7 +101,7 @@
                         
                           <asp:MenuItem Text="Reports" Value="Reports">
                             <asp:MenuItem Text="Category Menu Items" NavigateUrl="~/Reports/CategoryMenuItemsReport"></asp:MenuItem>
-                           
+                            <asp:MenuItem Text="Waiter Billing" NavigateUrl="~/Reports/WaiterBillingReport"></asp:MenuItem>
                          </asp:MenuItem>
 
                          <asp:MenuItem Text="About Us" NavigateUrl="~/About.aspx"></asp:MenuItem>
